@@ -233,7 +233,7 @@ struct Cricket : public CricketBase {
         {"guijia",       {50,  0,   0,  0,  0,  0,  0, 0,   30, 4,  0, "guijia"}},
         {"jinshudai",    {60,  0,   0,  0,  0,  0,  0, 0,   35, 5,  0, "jinshudai"}},
         {"longlinjia",   {70,  0,   0,  0,  0,  0,  0, 0,   40, 6,  0, "longlinjia"}},
-        {"yuangyangxu",  {0,   50,  0,  0,  0,  30, 4, -20, 0,  0,  0, "yuangyangxu"}},
+        {"yuanyangxu",   {0,   50,  0,  0,  0,  30, 4, -20, 0,  0,  0, "yuanyangxu"}},
         {"zhujiexu",     {0,   60,  0,  0,  0,  35, 5, -20, 0,  0,  0, "zhujiexu"}},
         {"hudiexu",      {0,   70,  0,  0,  0,  40, 6, -20, 0,  0,  0, "hudiexu"}},
         {"tiexiang",     {0,   0,   0,  0,  0,  0,  0, 0,   35, 7,  0, "tiexiang"}},
